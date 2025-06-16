@@ -1,6 +1,6 @@
 {
   "description": "manfredsession",
-  "main": "index.js",
+  "main": "malving.js",
   "type": "commonjs",
   "engines": {
     "node": ">=20.0.0"
