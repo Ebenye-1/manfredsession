@@ -2,7 +2,7 @@
 {
     "name": "manfred session",
     "description": "Web Session Generator",
-    "logo": "image url",
+    "logo": "https://files.catbox.moe/xbz2lq.jpg",
     "repository": "https://github.com/Ebenye-1/manfredsession",
     "keywords": ["Manfred"],
     "success_url": "/", 
